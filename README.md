@@ -4,8 +4,8 @@
   <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/su_andrewk" target="_blank">
-    <img alt="Twitter: su_andrewk" src="https://img.shields.io/twitter/follow/su_andrewk.svg?style=social" />
+  <a href="https://x.com/Sanskar73464861" target="_blank">
+    <img alt="Twitter: Sanskar73464861" src="https://img.shields.io/twitter/follow/su_andrewk.svg?style=social" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Andrew Kachnic](https://github.com/ajkachnic).<br />
+Copyright © 2025 [SANSKAR SONI](https://github.com/Sanskar7805).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 ***
