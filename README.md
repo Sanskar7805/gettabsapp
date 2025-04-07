@@ -11,19 +11,19 @@
 
 > An open source bookmark manager; built with React, Next.js, and MongoDB
 
-### 🏠 [Homepage](https://github.com/ajkachnic/gettabsapp)
+### 🏠 [Homepage](https://github.com/Sanskar7805/gettabsapp)
 
 ## Author
 
-👤 **Andrew Kachnic**
+👤 **Sanskar Soni**
 
-* Website: ajkachnic.now.sh
-* Twitter: [@su_andrewk](https://twitter.com/su_andrewk)
-* Github: [@ajkachnic](https://github.com/ajkachnic)
+* Website: https://sanskar7805.github.io/sanskarsoni/
+* Twitter: [@Sanskar73464861](https://x.com/Sanskar73464861)
+* Github: [@Sanskar7805](https://github.com/Sanskar7805)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ajkachnic/gettabsapp/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Sanskar7805/gettabsapp/issues). 
 
 ## Show your support
 
